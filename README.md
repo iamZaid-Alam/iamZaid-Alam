@@ -20,6 +20,7 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 - 🌐 [LinkedIn](https://www.linkedin.com/in/zaid-alam98/)  
 - 💻 [GitHub](https://github.com/iamZaid-Alam)  
 - 📧 [Email](mailto:zaidalam49@gmail.com) : zaidalam49@gmail.com
+- [Kaggle](https://www.kaggle.com/iamzaidalam)
 
 
 ---
@@ -109,3 +110,23 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20for%20Visiting!%20💖&fontSize=35" alt="footer wave"/>
 </p>
 
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zaid-alam98/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=ffffff" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/iamZaid-Alam" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg?color=ffffff" alt="GitHub" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:zaidalam49@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg?color=ffffff" alt="Email" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/iamzaidalam" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg?color=ffffff" alt="Kaggle" width="30" height="30"/>
+  </a>
+</p>
