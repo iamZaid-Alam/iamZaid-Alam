@@ -95,8 +95,10 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamzaid-alam&label=Profile%20views&color=0e75b6&style=flat" alt="iamzaid-alam" /> </p>
-
-
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmwzMzJtaGYyaTlkam02a21wMDhpd3Q0MndyNGJlejExejhtcTN5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KapMMVVXWW1k4Lto4I/giphy.gif" alt="Descriptive alt text" />
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamzaid-alam&label=Profile%20views&color=0e75b6&style=flat" alt="iamzaid-alam" /> </p>
+
