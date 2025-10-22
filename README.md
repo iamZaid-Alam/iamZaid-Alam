@@ -34,8 +34,8 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 #### 🧩 Programming & Data Analysis
 - Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
 - SQL (Joins, Window Functions, Query Optimization)
-- R (tidyverse, ggplot2)
-
+- Jupyter Notebook / VS Code for data experiments
+  
 #### 📈 Data Visualization
 - Tableau (Interactive Dashboards, Storytelling)
 - Power BI (DAX, Data Modeling)
@@ -47,6 +47,18 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 - Model Tuning (GridSearchCV, RandomizedSearchCV)
 - Feature Engineering & Data Preprocessing  
 - Ensemble Methods (Random Forest, XGBoost, Gradient Boosting)
+
+#### ⏱️ Time Series Forecasting
+- ARIMA, SARIMA, Prophet Models  
+- Trend & Seasonality Analysis  
+- Rolling Statistics & Stationarity Testing  
+- Evaluation Metrics (MAPE, RMSE)
+
+#### 💡 Recommender Systems
+- Collaborative Filtering (User-Based, Item-Based)  
+- Content-Based Recommendations  
+- Hybrid Models  
+- Cosine Similarity & Matrix Factorization
 
 #### ☁️ MLOps & Deployment
 - Flask / FastAPI for Model APIs  
