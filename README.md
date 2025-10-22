@@ -16,7 +16,6 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 - 💻 [GitHub](https://github.com/iamZaid-Alam)  
 - 📧 [Email](mailto:zaidalam49@gmail.com) : zaidalam49@gmail.com
 
----
 
 ---
 
