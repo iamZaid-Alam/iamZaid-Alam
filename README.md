@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👨‍💻%20Zaid%20Alam%20|%20Data%20Analyst%20&%20ML%20Enthusiast&fontSize=35&fontAlignY=40&desc=Exploring%20Data%20|%20Building%20Intelligence&descAlignY=60&descAlign=50" alt="Zaid Alam header"/>
+</p>
+
+
 # 👨‍💻 Zaid Alam | Data Analyst & Machine Learning Enthusiast
 
 > *"The simplest explanation is usually the best one." – Occam’s Razor*
@@ -90,58 +95,17 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamzaid-alam&label=Profile%20views&color=0e75b6&style=flat" alt="iamzaid-alam" /> </p>
 
 ---
 
-# Thank You ❤️
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmwzMzJtaGYyaTlkam02a21wMDhpd3Q0MndyNGJlejExejhtcTN5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KapMMVVXWW1k4Lto4I/giphy.gif" alt="Descriptive alt text" />
-
+<p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmwzMzJtaGYyaTlkam02a21wMDhpd3Q0MndyNGJlejExejhtcTN5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KapMMVVXWW1k4Lto4I/giphy.gif" alt="Descriptive alt text" /> </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamzaid-alam&label=Profile%20views&color=0e75b6&style=flat" alt="iamzaid-alam" /> </p>
-
-
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
-</p>
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thank%20You%20for%20Visiting!%20💖&fontAlignY=40&fontSize=40&descAlignY=51&descAlign=62" alt="Thank You Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20for%20Visiting!%20💖&fontSize=35" alt="footer wave"/>
 </p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20💖&fontSize=35" alt="footer wave"/>
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👨‍💻%20Zaid%20Alam%20|%20Data%20Analyst%20&%20ML%20Enthusiast&fontSize=35&fontAlignY=40&desc=Exploring%20Data%20|%20Building%20Intelligence&descAlignY=60&descAlign=50" alt="Zaid Alam header"/>
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&text=🛠️%20Skills%20%26%20Tech%20Stack&fontSize=35&fontAlignY=40" alt="Skills Wave"/>
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=120&section=header&text=🚀%20Projects%20Showcase&fontSize=35&fontAlignY=40" alt="Projects Wave"/>
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20for%20Visiting!%20💖&fontSize=30" alt="Thank You Wave"/>
-</p>
-
-
 
