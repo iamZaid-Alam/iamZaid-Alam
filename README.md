@@ -18,6 +18,41 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 
 ---
 
+### 🛠️ Skills
+
+#### 🧩 Programming & Data Analysis
+- Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
+- SQL (Joins, Window Functions, Query Optimization)
+- R (tidyverse, ggplot2)
+
+#### 📈 Data Visualization
+- Tableau (Interactive Dashboards, Storytelling)
+- Power BI (DAX, Data Modeling)
+- Matplotlib & Seaborn (Custom Visuals, EDA)
+
+#### 🤖 Machine Learning
+- Supervised & Unsupervised Learning  
+- Regression, Classification, Clustering  
+- Model Tuning (GridSearchCV, RandomizedSearchCV)
+- Feature Engineering & Data Preprocessing  
+- Ensemble Methods (Random Forest, XGBoost, Gradient Boosting)
+
+#### ☁️ MLOps & Deployment
+- Flask / FastAPI for Model APIs  
+- Docker Containerization  
+- AWS (S3, EC2, SageMaker Basics)
+- Git & Version Control
+
+#### 🧮 Business & Analytical Skills
+- Data Storytelling & Reporting  
+- A/B Testing & Hypothesis Testing  
+- KPI Analysis & Dashboard Design  
+- Excel (Pivot Tables, Power Query)
+
+
+
+---
+
 
 # 💻 Tech Stack:
 
