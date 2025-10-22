@@ -113,20 +113,24 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 
 
 
+
+
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/zaid-alam98/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=ffffff" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/iamZaid-Alam" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg?color=ffffff" alt="GitHub" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:zaidalam49@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg?color=ffffff" alt="Email" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/iamzaidalam" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg?color=ffffff" alt="Kaggle" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
