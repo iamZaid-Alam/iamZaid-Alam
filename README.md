@@ -102,3 +102,19 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamzaid-alam&label=Profile%20views&color=0e75b6&style=flat" alt="iamzaid-alam" /> </p>
 
+
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thank%20You%20for%20Visiting!%20💖&fontAlignY=40&fontSize=40&descAlignY=51&descAlign=62" alt="Thank You Wave"/>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20💖&fontSize=35" alt="footer wave"/>
+</p>
