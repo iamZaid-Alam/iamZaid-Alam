@@ -118,3 +118,30 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20💖&fontSize=35" alt="footer wave"/>
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👨‍💻%20Zaid%20Alam%20|%20Data%20Analyst%20&%20ML%20Enthusiast&fontSize=35&fontAlignY=40&desc=Exploring%20Data%20|%20Building%20Intelligence&descAlignY=60&descAlign=50" alt="Zaid Alam header"/>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&text=🛠️%20Skills%20%26%20Tech%20Stack&fontSize=35&fontAlignY=40" alt="Skills Wave"/>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=120&section=header&text=🚀%20Projects%20Showcase&fontSize=35&fontAlignY=40" alt="Projects Wave"/>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20for%20Visiting!%20💖&fontSize=30" alt="Thank You Wave"/>
+</p>
+
+
+
