@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on GraphDB (ArangoDB) to solve event correlation and also working on Business Intelligence, Data Analytics, Data Integration, ETL, Data Orchestration, Data Visualization and Mlops pipeline.<br>👯 I want to collaborate on open-source data analysis projects.<br>🤝 I’m looking for help with remote opportunities.<br>🌱 I’m currently learning Advanced AI-ML techniques and algorithms.<br>💬 Ask me about anything about data or the journey of data.<br>⚡ Fun fact I can perfectly time a football match and a meal to be ready at the final whistle....
+# 👨‍💻 Zaid Alam | Data Analyst & Machine Learning Enthusiast
+
+---
+
+### 👋 About Me
+I’m a passionate **Data Analyst** and **Machine Learning Enthusiast** who loves turning raw data into actionable insights and intelligent solutions.  
+Curious by nature and driven by logic, I enjoy exploring how data shapes decisions, predicts trends, and improves business outcomes.
+
+
 
 
 ## 🌐 Socials:
