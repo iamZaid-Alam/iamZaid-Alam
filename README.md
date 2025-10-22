@@ -80,5 +80,5 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=iamZaid-Alam&icon=8&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamzaid-alam&label=Profile%20views&color=0e75b6&style=flat" alt="iamzaid-alam" /> </p>
 
