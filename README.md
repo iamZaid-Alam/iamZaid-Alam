@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👨‍💻%20Zaid%20Alam%20|%20Data%20Analyst%20&%20ML%20Enthusiast&fontSize=35&fontAlignY=40&desc=Exploring%20Data%20|%20Building%20Intelligence&descAlignY=60&descAlign=50" alt="Zaid Alam header"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👨‍💻%20Zaid%20Alam%20|%20ML%20Enthusiast&fontSize=35&fontAlignY=40&desc=Exploring%20Deep%20Learning%20|%20Building%20Intelligence&descAlignY=60&descAlign=50" alt="Zaid Alam header" width="100%"/>
 
 
 # 👨‍💻 Zaid Alam | Data Analyst & Machine Learning Enthusiast
@@ -15,12 +13,37 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 
 ---
 
+<p align="center">
+  <a href="https://github.com/iamZaid-Alam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamZaid-Alam&theme=radical" alt="Zaid Alam GitHub Profile Summary"/>
+  </a>
+</p>
+
+
+---
 
 ### 📫 Let’s Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/zaid-alam98/)  
+<!--- 🌐 [LinkedIn](https://www.linkedin.com/in/zaid-alam98/)  
 - 💻 [GitHub](https://github.com/iamZaid-Alam)  
 - 📧 [Email](mailto:zaidalam49@gmail.com) : zaidalam49@gmail.com
-- [Kaggle](https://www.kaggle.com/iamzaidalam)
+- [Kaggle](https://www.kaggle.com/iamzaidalam) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/zaid-alam98/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/iamZaid-Alam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:zaidalam49@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/iamzaidalam" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
 
 
 ---
@@ -79,7 +102,7 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 
 
 ---
-
+<!---
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=iamZaid-Alam&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -89,6 +112,26 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamZaid-Alam&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamZaid-Alam&show_icons=true&theme=cobalt&hide&utcOffset=8)]
+--->
+
+## 📊 GitHub Stats
+
+| GitHub Stats | Streak Stats |
+|:-------------:|:------------:|
+| ![](https://github-readme-stats.vercel.app/api?username=iamZaid-Alam&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=iamZaid-Alam&theme=cobalt&hide_border=false) |
+
+| **Top Languages** | **Productive Time** |
+|:-----------------:|:-------------------:|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamZaid-Alam&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamZaid-Alam&theme=cobalt&utcOffset=8) |
+
+
+---
+
+
+## Trophie Stats
+![](https://github-profile-trophy.vercel.app/?username=iamZaid-&theme=onedark)
 
 
 ---
