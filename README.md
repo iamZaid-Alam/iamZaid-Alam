@@ -132,8 +132,7 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/iamZaid-Alam/iamZaid-Alam/output/snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/iamZaid-Alam/iamZaid-Alam/output/snake-dark.svg)
 
 ---
 
