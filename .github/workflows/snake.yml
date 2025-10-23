@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs at 00:00 UTC every day
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -11,11 +14,16 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: iamZaid-Alam
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark&color_snake=#58a6ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
