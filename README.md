@@ -43,6 +43,9 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
   <a href="https://www.kaggle.com/iamzaidalam" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
+  <a href="https://public.tableau.com/app/profile/zaid.alam3395/vizzes" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  </a>
 </p>
 
 
