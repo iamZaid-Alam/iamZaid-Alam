@@ -130,11 +130,7 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 ---
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamZaid-Alam/iamZaid-Alam/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamZaid-Alam/iamZaid-Alam/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamZaid-Alam/iamZaid-Alam/output/snake.svg">
-</picture>
+
 
 
 ---
