@@ -141,9 +141,8 @@ Curious by nature and driven by logic, I enjoy exploring how data shapes decisio
 ---
 
 
-### ✍️ Random Dev Quote
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamzaid-alam&label=Profile%20views&color=0e75b6&style=flat" alt="iamzaid-alam" /> </p>
+
 
 ---
 
